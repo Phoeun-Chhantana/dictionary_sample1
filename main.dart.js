@@ -43842,7 +43842,7 @@ q[7]=g+q[7]>>>0}}
 A.aky.prototype={}
 A.KG.prototype={
 K(a){var s=null
-return new A.zd(new A.eK(new A.a64(this),s),"Flutter Demo",A.aq7(B.y0,s,B.ui,B.k,s),s)}}
+return new A.zd(new A.eK(new A.a64(this),s),"Dictionary",A.aq7(B.y0,s,B.ui,B.k,s),s)}}
 A.a64.prototype={
 $1(a){var s=this.a.c
 if(s!=null)return new A.ms(s,null)
