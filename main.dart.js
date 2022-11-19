@@ -45035,7 +45035,7 @@ q=$.bg
 s=(q==null?$.bg=$.d2():q).d2(0,"[DEFAULT]")
 A.c_(s,$.dM(),!0)
 q=A.fi(new A.ck(s))
-A.ki(q,q.gcj().hU("eng_kh")).yb("word").t4(r.x).Hp().aeZ(new A.ajE(r))}},
+A.ki(q,q.gcj().hU("word")).yb("word").t4(r.x).Hp().aeZ(new A.ajE(r))}},
 $S:0}
 A.ajE.prototype={
 $1(a){var s,r,q,p
